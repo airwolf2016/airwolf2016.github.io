@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Manuel Edmundo Yanes Martinez"
-  avatar : "/assets/images/photo.jpg"
+  avatar : "/assets/images/photo.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
